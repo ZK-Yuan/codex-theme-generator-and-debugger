@@ -1,5 +1,5 @@
 # codex-theme-generator-and-debugger
-一句话通过两个内置skills以及你的自然语言和参考素材，生成专注的codex皮肤
+通过两个内置skills以及你的自然语言和参考素材，生成专属codex皮肤
 
 使用流程：
 填写提示词文件顶部“用户填写区”。
